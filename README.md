@@ -29,7 +29,7 @@ Agora que está tudo pronto, podemos executar o nosso primeiro código para a cr
     laravel new example-app
 O *instalador do Laravel* perguntara qual é o seu *framework de teste*, *banco de dados* e *kit inicial preferidos*, selecione com base em suas preferencias. Após a criação do aplicativo, você já pode acessar servidor de desenvolvimento do *Laravel* usando a seguinte sequencia de códigos:
 
-> **Atenção**: *Cada linha do código deve ser executa **INDIVIDUALMENTE!***
+> **Atenção**: *Cada linha do código deve ser executado **INDIVIDUALMENTE!***
 
     cd example-app
     npm install
