@@ -3,7 +3,7 @@
 ## Requisitos
 Antes de começar a instalação do *Laravel*, é necessário de outros componentes. Você precisa ter instalado na sua maquina o [*PHP*](https://php.net/), [*Composer*](https://getcomposer.org/) e o [*instalador do Laravel*](https://github.com/laravel/installer), além disso, também será necessário o *[Node e o NPM](https://nodejs.org/)*   ou o [*Bundle*](https://bun.sh/) para poder compilar os recursos front-end do seu aplicativo.
 
-Caso não possuía esses arquivos instalados em sua maquina, os comandos a seguirem instalaram eles.
+Caso não possua esses arquivos instalados em sua maquina, os comandos a seguir instalam eles.
 
 **Comando para Windows PowerShell 💻:**
     
